@@ -1,6 +1,7 @@
 
 {
-  "name": "satu extensions",
+  "name": "extensions",
+  "iconUrl: "https://raw.githubusercontent.com/modegalau657-lgtm/Picture/main/images/Evan%20D.%20Sherden.png",
   "description": "Repo ekstensi CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
