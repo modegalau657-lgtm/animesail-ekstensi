@@ -1,8 +1,7 @@
 
 {
   "name": "extensions",
-  "iconUrl:
-"https://raw.githubusercontent.com/modegalau657-lgtm/animesail-ekstensi/main/icons/IMG_20251221_184122.jpg",
+  "iconUrl: "https://raw.githubusercontent.com/modegalau657-lgtm/animesail-ekstensi/main/icons/IMG_20251221_184122.jpg",
   "description": "Repo ekstensi CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
