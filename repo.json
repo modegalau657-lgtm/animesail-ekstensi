@@ -1,9 +1,8 @@
-
 {
-  "iconUrl: "https://raw.githubusercontent.com/modegalau657-lgtm/animesail-ekstensi/main/icons/IMG_20251221_184122.jpg",
   "name": "extensions",
   "description": "Repo ekstensi CloudStream",
   "manifestVersion": 1,
+  "iconUrl: "https://raw.githubusercontent.com/modegalau657-lgtm/animesail-ekstensi/main/icons/IMG_20251221_184122.jpg",
   "pluginLists": [
     "https://raw.githubusercontent.com/modegalau657-lgtm/zeeorepo/main/plugin.json"
   ]
